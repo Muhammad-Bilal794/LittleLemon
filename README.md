@@ -165,7 +165,7 @@ Built as part of the **Meta Back-End Developer Capstone Project** on Coursera.
 
 This project is a demonstration of **production-level backend development** using Django REST Framework — combining **security**, **scalability**, and **clean code architecture** for a real-world restaurant application. 🍋
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots of some API Endpoints
 
 ### Home Page
 <img src="https://i.postimg.cc/bvhMQzP8/Screenshot-2025-09-12-093917.png" alt="Dashboard" style="width:400px; border:2px solid #ddd; border-radius:10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2); margin-bottom:15px;"/>
